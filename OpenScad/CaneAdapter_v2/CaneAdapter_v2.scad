@@ -1,4 +1,4 @@
-// CC BY-SA 4.0, T. Amberg, FHNW
+// CC BY-SA 4.0, FHNW (University of Applied Sciences and Arts Northwestern Switzerland)
 
 $fn = 360;
 
